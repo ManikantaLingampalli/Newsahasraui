@@ -90,7 +90,7 @@ function App() {
             <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }}>
 
               <div className="flex items-center space-x-2">
-                <img src="logo.png" alt="Sahasra" className="h-8 w-auto" />
+                <img src="sahasralogo.png" alt="Sahasra" className="h-8 w-auto" />
                 <span className="text-2xl font-bold gradient-text">Sahasra Digitals</span>
               </div>
             </motion.div>
