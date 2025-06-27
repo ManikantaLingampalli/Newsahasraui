@@ -34,6 +34,8 @@ const services = [
   { icon: HeartPulse, title: 'Practo Patient Stories', description: 'Build trust with authentic patient stories on Practo.' },
   { icon: Activity, title: 'Lybrate Marketing', description: 'Targeted marketing on Lybrate to reach new patients.' },
   { icon: Phone, title: 'Just Dial Optimization', description: 'Boost your visibility and leads from Just Dial.' },
+  { icon: Phone, title: 'All', description: 'All the services we provied.' },
+
 ];
 
 const testimonials = [
